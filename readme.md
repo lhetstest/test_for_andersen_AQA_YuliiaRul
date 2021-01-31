@@ -16,3 +16,11 @@ This app includes 3 tasks in one app.
 3. the third task just shows you the numbers from the builtin array, and only those of numbers for which modulo 3 is zero.
 
 good luck)
+
+Дана скобочная последовательность: [((())()(())]]
+- Можно ли считать эту последовательность правильной?
+  The answer is  "NO"
+- Если ответ на предыдущий вопрос “нет” - то что необходимо в ней изменить, чтоб она стала правильной?
+
+[((())()(()))]
+this one is the correct bracket sequence
